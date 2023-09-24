@@ -1,4 +1,4 @@
---  Mengambil Semua Film yang Tersedia Berdasarkan Bahasa (Language)
+--  Mengambil Seluruh Film yang Tersedia Berdasarkan Bahasa (Language)
 select
     f.title as film_title,
     l.name as language
